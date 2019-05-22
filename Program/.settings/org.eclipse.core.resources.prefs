@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/project/thangnd/controllers/FoodController.java=UTF-8
+encoding//src/main/java/project/thangnd/controllers/LoginController.java=UTF-8
+encoding//src/main/java/project/thangnd/daoImpls/LoginDaoImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/formFood.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/food_detail.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/nav.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/success_order.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/test.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/testgooglemap.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/trangchu.jsp=UTF-8

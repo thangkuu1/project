@@ -1,0 +1,25 @@
+.food-rate{
+	float: left;
+}
+
+.food-cmt{
+	float: right;
+	margin-top: 10px;
+	padding-right: 20px;
+}
+
+.star-rating{
+	margin-top: 5px;
+	padding-left: 20px;
+}
+
+.food-area .food-content{
+	background: #efeeee ;
+}
+
+.food-discount{
+	background: red;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
